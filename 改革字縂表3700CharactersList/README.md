@@ -906,7 +906,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |尋|寻|||
 |質|貭|Variant: 金石文字辨異 (清 Qing)||
 |供||||
-|獎|⿱犬廾|Based on variant 㢡, preserves Traditional meaning component 犬, https://glyphwiki.org/wiki/u2c32a|No, 𬌪|
+|獎|⿰爿⿱⿻夕丶犬|Variant: 說文 (東漢 Eastern Han)、集韻 (宋 Song). https://glyphwiki.org/wiki/u247cc-g|No, 𤟌|
 |袋||||
 |胡||Merge 胡、鬍 into 胡||
 |臟|脏|||
