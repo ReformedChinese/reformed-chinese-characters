@@ -304,7 +304,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |門||||
 |害||||
 |歉||||
-|選|辶⺄共|Variant: 藍立蓂．劉知遠諸宮調校注．第一, https://glyphwiki.org/wiki/u284df-var-001|No, 𨓟|
+|選|辶⺄共|Variant: 藍立蓂．劉知遠諸宮調校注．第一, https://glyphwiki.org/wiki/u284df-g|No, 𨓟|
 |嗨||||
 |房||戶 never 户/戸|Unicode might display wrong|
 |命||||
@@ -1953,7 +1953,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |嶙|岺|||
 |嶺|岭|||
 |嶼|屿|Simplified 与 Unicode not Japanese||
-|巍|峞|Replaces 魏 with near homophone 危 which also has meaning of “high”||
+|巍|峞|Replaces 魏 with near homophone 危 which also has meaning of “high” ||
 |巒|峦|亦 appears like in 奕|Unicode might display wrong|
 |巔|嵮|Variant: 字彙 (明 Ming), Use Chinese Unicode 真|Unicode might display wrong|
 |川||||
@@ -2059,7 +2059,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |慰||||
 |慵|𢘭|忄用, Compare 傭→佣|Most likely doesn't support|
 |慷||||
-|憂|一息 (Vertical)|Variant: 玉篇 (梁 Liang)、重訂直音篇 (明 Ming), https://glyphwiki.org/wiki/u226a7-var-001|No, 𢚧|
+|憂|㥑|Variant: 金石文字辨異 (清 Qing)、字學三正 (明 Ming)||
 |憊|俻心 (Vertical)|https://glyphwiki.org/wiki/u2ff1-u4ffb-u5fc3|No|
 |憋|比心 (Vertical)|Compare 斃→毙|No|
 |憎||||
@@ -2843,7 +2843,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |窘||||
 |窟||||
 |窩||||
-|窪|窐|Variant of 說文 Shuowen form 漥||
+|窪|窐|Variant of 說文 Shuowen form 漥 ||
 |窮|亻穹|Compare 躰→体、variant 䠻, https://glyphwiki.org/wiki/u2ff0-u4ebb-u7a79|No|
 |窯||||
 |窺||||
@@ -2950,7 +2950,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |繩|No 一 in top 田 of 縄|Compare 蠅 Reform, Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u7e69-var-002|No|
 |繪|絵|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繫|係|Merge 係、繫 into 係, “to relate; to connect; to tie”, Don’t confuse with 系 “system”||
-|繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹. https://glyphwiki.org/wiki/u2c5cc-var-001|No, 𬗌 (Needs appearance fixed)|
+|繭|糸虫|Unhooked Chinese Unicode 糸 left radical never 糹. https://glyphwiki.org/wiki/u2c5cc-var-001 |No, 𬗌 (Needs appearance fixed)|
 |繳||Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繹|䋇|Unhooked Chinese Unicode 糸 left radical never 糹|Unicode might display wrong|
 |繽|糸兵|Unhooked Chinese Unicode 糸 left radical never 糹, https://glyphwiki.org/wiki/u2ff0-u7cf8-u5175|No|
@@ -3651,7 +3651,7 @@ Compiled & proposed by 盧聚西 Westin Juxi Lu
 |鬍|胡|Merge 胡、鬍 into 胡||
 |鬚|須|Older form, Merge 須、鬚 into 須||
 |鬢|兵彡||No|
-|鬱|林勹玉 (Vertical)|“Gloomy; luxuriant”, Don’t confuse with 郁 “fragrant”, https://glyphwiki.org/wiki/u31908|No, 𱤈|
+|鬱|㭗|Korean hanja shorthand. “Gloomy; luxuriant”, Don’t confuse with 郁 “fragrant”||
 |魁||||
 |魄||||
 |魅||||
